@@ -138,6 +138,30 @@ header, .navbar{
     margin-right: 15px;
 }
 
+/* Serviços */
+.services-box{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.services-box i, .services-box h4 {
+    transition: .5s;
+}
+
+.services-box i {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #444;
+}
+
+.services-box h4{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.services-box:hover > i, .services-box:hover > h4{
+    color: #65DAF9;
+}
 
 
 
