@@ -55,6 +55,7 @@ header, .navbar{
 
 #mainSlider .carousel-inner, #mainSlider .carousel-item{
     height:65vh;
+    
 }
 
 #mainSlider .carousel-caption{
@@ -182,3 +183,7 @@ header, .navbar{
     
 }
 
+/* Time */
+.card-body{
+    text-align: center;
+}
